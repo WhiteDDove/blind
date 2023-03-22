@@ -1,1 +1,2 @@
-informatie 2
+diff efect
+diff efect2
