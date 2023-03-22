@@ -1,1 +1,1 @@
-primul mesaj si comanda in linux
+informatie 2
